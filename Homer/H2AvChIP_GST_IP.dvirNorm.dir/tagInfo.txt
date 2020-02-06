@@ -1,0 +1,17 @@
+name	Unique Positions	Total Tags
+genome	12594471	904196.0
+fragmentLengthEstimate=897		
+peakSizeEstimate=897		
+tagsPerBP=0.116915		
+averageTagsPerPosition=1.277		
+averageTagLength=886.140		
+gsizeEstimate=137512742		
+averageFragmentGCcontent=-1.000		
+chr2L	2338041	2985547.0
+chr2R	2401588	3083020.0
+chr3L	2598111	3307544.0
+chr3R	3164783	4049006.0
+chr4	122364	149080.0
+chrX	1968184	2501399.0
+chrY	1400	1774.0
+cmd=makeTagDirectory H2AvChIP_GST_IP.dvirNorm.dir -totalReads 904196 H2AvChIP_GST_IP_GTGGCCTT_1.dmel.bam		

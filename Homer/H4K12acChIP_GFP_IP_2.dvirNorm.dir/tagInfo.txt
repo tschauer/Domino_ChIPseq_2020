@@ -1,0 +1,17 @@
+name	Unique Positions	Total Tags
+genome	16196444	1473263.0
+fragmentLengthEstimate=702		
+peakSizeEstimate=702		
+tagsPerBP=0.149662		
+averageTagsPerPosition=1.271		
+averageTagLength=695.938		
+gsizeEstimate=137513407		
+averageFragmentGCcontent=-1.000		
+chr2L	2906972	3642309.0
+chr2R	2898595	3627630.0
+chr3L	3403586	4342863.0
+chr3R	4223499	5380662.0
+chr4	107145	124303.0
+chrX	2651685	3453231.0
+chrY	4962	9555.0
+cmd=makeTagDirectory H4K12acChIP_GFP_IP_2.dvirNorm.dir -totalReads 1473263 H4K12acChIP_GFP_IP_2_ACTTGAAT_1.dmel.bam		
