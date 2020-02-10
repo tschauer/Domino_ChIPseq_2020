@@ -1,0 +1,17 @@
+name	Unique Positions	Total Tags
+genome	21381533	30056078.0
+fragmentLengthEstimate=144		
+peakSizeEstimate=144		
+tagsPerBP=0.218569		
+averageTagsPerPosition=1.405		
+averageTagLength=49.817		
+gsizeEstimate=137513201		
+averageFragmentGCcontent=-1.000		
+chr2L	4040413	5703402.0
+chr2R	3832270	5316095.0
+chr3L	4471933	6311524.0
+chr3R	5376682	7538432.0
+chr4	153174	190446.0
+chrX	3502450	4988293.0
+chrY	4611	7886.0
+cmd=makeTagDirectory H4K12acChIP_GST.1_IP.dmelNorm.dir H4K12acChIP_GST.1_IP_CAGATCAT_1.dmel.bam		

@@ -26,6 +26,8 @@ samtools faidx dmel-all-chromosome-r6.17.fasta 2L 2R 3L 3R 4 X Y | sed 's/^>/>ch
 
 mv dvir-all-chromosome-r1.07.fasta dvir-all-chromosome-r1.07.fa
 
+samtools faidx dvir-all-chromosome-r1.07.fa
+
 # build bowtie2 index
 
 bowtie2-build dmel-all-chromosome-r6.17.fa dmel_genome
